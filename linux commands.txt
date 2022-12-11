@@ -1,0 +1,32 @@
+mkdir create a directory or folder linux commands
+ls = list the content of the directory
+cd = change to directory
+touch = create empty files
+cat>filename = create a new file and writes the content and ctrl+D to save the file.
+cat= display the content of the file
+cat file1 file2>file3= it creates new file and content of both files will be copied to new file
+ls*.txt= list all the given files directory
+pwd=present working directory
+cp= copy a file or directory
+mv= move the file/ rename
+head= display top 10 lines of the file
+tail= display last 10 lines of the file
+tac=reverse of the cat display the content in the file reverse order in the file
+more= it is similar to cat command here we can display large content by usimg entrt/spacebar
+id= display id of user/group
+clear= clear the screen
+vi= text editor to write
+grep= filter to search the given pattern
+diif= compares the content of two different files
+ping= checks the connectivity status of the server
+history= review all the commands
+hostname = display the hostname
+hostname-i= display host ip
+chmod= change the user/group permission to acess the file
+nl= display the line numbers
+wc= num of lines/words/characters available in the content
+uniq=used to remove duplicates of file content/ it can remove only continues duplicates
+rmdir= removes the specified directory/directory should be empty
+rm= removes file  in a directory
+
+
